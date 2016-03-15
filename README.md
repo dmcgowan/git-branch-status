@@ -1,6 +1,6 @@
 # git branch-status
 
-`branch-status` is a git utility to making managing large number of branches
+`branch-status` is a git utility to make managing large number of branches
 either across many remotes easier. Branch status allows comparing all branches
 against their upstream or any arbitrary branch to show the number of 
 commit differences. This aids in discovering branches which are out of sync
